@@ -1,0 +1,14 @@
+.root_div{
+    background-color: yellow;
+    /*div position*/
+    position: absolute;
+    left: 25%;
+    top: 25%;
+    /*div size*/
+    width: 50%; 
+    height: 50%;
+}
+
+
+
+
